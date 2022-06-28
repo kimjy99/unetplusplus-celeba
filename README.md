@@ -13,7 +13,7 @@ I made new datasets in Kaggle after pre-processing.
 ## Implementation Details
 ```
 optimizer: Adam
-learning rate: 3e-4 
+learning rate: 3e-4 (without scheduler)
 image size: 128x128
 epoch: 100
 batch size: 12
