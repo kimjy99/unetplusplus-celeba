@@ -1,4 +1,4 @@
-# U2-Net
+# UNet++
 A PyTorch implementation of [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://arxiv.org/abs/1807.10165) trained with CelebAMask
 
 <p align="center">
