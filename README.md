@@ -27,12 +27,12 @@ validation & test metric: IoU (Intersection over Union)
   <img src="./images/result.png?raw=true" style="width:500px;"/>
 </p>
 
-### Train Loss
+## Train Loss
 <p align="center">
   <img src="./images/loss.png" style="width:500px;"/>
 </p>
 
-### IoU
+## IoU
 ||Train|Valid|Test|
 |:---:|:---:|:---:|:---:|
 |# of images|27000|2500|500|
